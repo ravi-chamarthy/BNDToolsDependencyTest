@@ -1,0 +1,126 @@
+what,kind,bundleId,bundleVersion,description,time
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1327949309055
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.felix:maven-bundle-plugin:2.3.6",1327949309055
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.7",1327949309055
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.felix:maven-bundle-plugin:2.3.6",1327949309055
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1327949309055
+error,log,,,"Manifest net.juniper.bndtools:impl:bundle:0.0.1-SNAPSHOT : The JAR is empty: dot",1327949309161
+error,log,,,"Error(s) found in manifest configuration",1327949309161
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949320195
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949325818
+activated,editor,bndtools.core,1.0.0.REL-111120-1951,"bndtools.bndProjectEditor",1327949329004
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20110802_r371,"org.eclipse.jdt.debug",1327949329311
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1327949329487
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949329550
+closed,editor,bndtools.core,1.0.0.REL-111120-1951,"bndtools.bndProjectEditor",1327949329550
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949332106
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949335222
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949337072
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949337103
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949339555
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949344349
+error,log,,,"Error rebuilding workspace OBR index",1327949347490
+error,log,,,"Error rebuilding workspace OBR index",1327949358260
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949358286
+started,bundle,org.eclipse.ui.navigator,3.5.100.v20110809-2227,"org.eclipse.ui.navigator",1327949358375
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949364154
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949364276
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949364277
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949374633
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949383559
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1327949397581
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949400200
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949411439
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949418899
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949484862
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949500413
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949513014
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949530158
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949530457
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949530633
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949559593
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949568546
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949586339
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949586651
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949586912
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949598993
+opened,editor,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor.MavenPomEditor",1327949629223
+activated,editor,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor.MavenPomEditor",1327949629270
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949637349
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949646701
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949648580
+activated,editor,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor.MavenPomEditor",1327949657168
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949659525
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949681348
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1327949686752
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949688298
+opened,editor,bndtools.core,1.0.0.REL-111120-1951,"bndtools.bndProjectEditor",1327949688663
+activated,editor,bndtools.core,1.0.0.REL-111120-1951,"bndtools.bndProjectEditor",1327949688703
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949694390
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949697332
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949700005
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949711434
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949714439
+activated,editor,bndtools.core,1.0.0.REL-111120-1951,"bndtools.bndProjectEditor",1327949714453
+activated,editor,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor.MavenPomEditor",1327949724801
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1327949741619
+activated,editor,bndtools.core,1.0.0.REL-111120-1951,"bndtools.bndProjectEditor",1327949743042
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1327949746376
+activated,editor,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor.MavenPomEditor",1327949747930
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1327949753508
+activated,editor,bndtools.core,1.0.0.REL-111120-1951,"bndtools.bndProjectEditor",1327949754913
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1327949757351
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1327949758380
+error,log,,,"Error rebuilding workspace OBR index",1327949758535
+activated,editor,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor.MavenPomEditor",1327949761339
+closed,editor,bndtools.core,1.0.0.REL-111120-1951,"bndtools.bndProjectEditor",1327949761340
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1327949762595
+error,log,,,"Error rebuilding workspace OBR index",1327949762744
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949763712
+closed,editor,org.eclipse.m2e.editor,1.0.100.20110804-1717,"org.eclipse.m2e.editor.MavenPomEditor",1327949763713
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949772054
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949774040
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1327949774067
+error,log,,,"Error rebuilding workspace OBR index",1327949774074
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949784452
+error,log,,,"Error rebuilding workspace OBR index",1327949837123
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949837154
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949837401
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949837487
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949839963
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949840272
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949840336
+error,log,,,"Error rebuilding workspace OBR index",1327949842092
+error,log,,,"say [in HelloBndTools [in [Working copy] HelloBndTools.java [in net.juniper.bndtool.api [in src/main/java [in api]]]]] does not exist",1327949852285
+error,log,,,"sayHello [in HelloBndTools [in [Working copy] HelloBndTools.java [in net.juniper.bndtool.api [in src/main/java [in api]]]]] does not exist",1327949852325
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1327949852962
+error,log,,,"Error rebuilding workspace OBR index",1327949853175
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949856165
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949856462
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1327949856611
+error,log,,,"Error rebuilding workspace OBR index",1327949858292
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1327949860252
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1327949862792
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949863862
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949864139
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1327949873562
+started,bundle,org.eclipse.pde.api.tools,1.0.301.v20110728_r371,"org.eclipse.pde.api.tools",1327949873663
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1327949873665
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1327949873805
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1327949880568
+error,log,,,"Error rebuilding workspace OBR index",1327949880720
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949882970
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949882971
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1327949884159
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1327949884159
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949887804
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949889410
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1327949889449
+error,log,,,"Error rebuilding workspace OBR index",1327949889456
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949897666
+error,log,,,"Error rebuilding workspace OBR index",1327949899548
+error,log,,,"Error rebuilding workspace OBR index",1327949903840
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949903887
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949910210
+executed,command,org.eclipse.egit.ui,1.2.0.201112221803-r,"org.eclipse.egit.ui.team.AddToIndex",1327949921281
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1327949936143

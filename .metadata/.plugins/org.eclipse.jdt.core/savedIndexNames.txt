@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+/Users/ravi/projects/BNDToolsDependencyTest/.metadata/.plugins/org.eclipse.jdt.core
+3281104056.index
+2337366377.index
+3464316030.index
+1357894593.index
+603426996.index
+3425408841.index

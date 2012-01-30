@@ -1,0 +1,5 @@
+package net.juniper.bndtool.api;
+
+public interface HelloBndTools {
+
+}

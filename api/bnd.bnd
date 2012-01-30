@@ -1,0 +1,7 @@
+-include:   pom.xml
+-src:       src/main/java
+-classpath: target/classes
+
+Bundle-SymbolicName: net.juniper.bndtools.api
+Bundle-Version:      0.0.1-SNAPSHOT
+
